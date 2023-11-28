@@ -7,6 +7,7 @@ The training uses Hard Triplet Mining like in the paper "In Defense of the Tripl
 
 ## Link to download the training and validation set as well as the best achieved model:
 https://drive.google.com/drive/u/0/folders/1ZxXXPJLHg_2lZutzrUJEhpk7deBiY1x2
+
 The model managed to achieve a Rank 1 accuracy of 89% on the validation set.
 
 Remember to have the train and val folders and the model in the "reid" folder of this git.
