@@ -13,4 +13,4 @@ https://drive.google.com/drive/u/0/folders/1ZxXXPJLHg_2lZutzrUJEhpk7deBiY1x2
 
 The model managed to achieve a Rank 1 accuracy of 89% on the validation set.
 
-Remember to have the train and val folders and the model in the "reid" folder of this git and inside the src that is inside the src/reidentification folder if you want to try tracking in ROS.
+Remember to have the train and val folders and the model in the "reid" folder of this git and inside the src that is inside the "src/reidentification" folder if you want to try tracking in ROS.
