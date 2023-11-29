@@ -1,8 +1,6 @@
 # Reidentification-and-Tracking
 
-
-![demo(1)](https://github.com/RayCali/Reidentification-and-Tracking/assets/90102246/a23157b4-aa27-41b5-b977-8c56c86bc624)
-
+![demo](https://github.com/RayCali/Reidentification-and-Tracking/assets/90102246/08527403-4b0a-47ca-a613-f9a9c68e4db3)
 
 Keywords: Pytorch, Reidentification, Tracking, ROS, Triplet mining, Yolo
 
