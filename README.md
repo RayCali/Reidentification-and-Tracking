@@ -17,4 +17,5 @@ Remember to have the train and val folders and the model in the "reid" folder of
 
 
 ## Tracking
-Tracking in ROS works by having YOLOv8 as a person detector and the reidentification network as the tracker/reidentifier. The first person YOLO detects will be the target.
+Tracking in ROS works by having YOLOv8 as a person detector and the reidentification network as the tracker/reidentifier. The first person YOLO detects will be the target. The topic that the camera image should be published to is "/camera/image".
+To run the node run "rosrun reidentification reid_nodev3.py". The node will also publish the same image with the target being marked to "/reid/image" 
