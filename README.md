@@ -4,7 +4,7 @@
 
 Keywords: Pytorch, Reidentification, Tracking, ROS, Triplet mining, Yolo
 
-Contains code for training your own reidentification model with CUHK03 and a src for a ROS package to perform realtime reidentification and tracking with a camera.
+Contains code for training your own reidentification model with CUHK03 and a ROS package to perform realtime reidentification and tracking with a camera.
 
 The training uses Hard Triplet Mining like in the paper "In Defense of the Triplet Loss for Person Re-Identification". Link to the paper: https://paperswithcode.com/paper/in-defense-of-the-triplet-loss-for-person-re
 
