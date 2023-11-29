@@ -1,4 +1,8 @@
 # Reidentification-and-Tracking
+
+https://github.com/RayCali/Reidentification-and-Tracking/assets/90102246/32e14a36-d9aa-49d9-aa65-dff77f4d31ae
+
+
 Keywords: Pytorch, Reidentification, Tracking, ROS, Triplet mining, Yolo
 
 Contains code for training your own reidentification model with CUHK03 and a src for a ROS package to perform realtime reidentification and tracking with a camera.
